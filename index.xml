@@ -1,0 +1,25 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>My New Hugo Site</title>
+        <link>http://localhost:1313/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language>
+            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title></title>
+    <link>http://localhost:1313/posts/csapp/%E6%9D%A5%E6%8A%8A/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/posts/csapp/%E6%9D%A5%E6%8A%8A/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title></title>
+    <link>http://localhost:1313/posts/%E6%9C%AA%E5%91%BD%E5%90%8D/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>http://localhost:1313/posts/%E6%9C%AA%E5%91%BD%E5%90%8D/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
